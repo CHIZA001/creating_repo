@@ -19,15 +19,19 @@ where;
 # #for the diffrences
 # diffrences=area-perimeter
 # print(f"the diffrence between the two formulas is {diffrences}")
-h=0
-b=10
-a=14
-area=b*h/2
-perimeter=2*a+b
-import math
-h = math.sqrt(a**2-b**2)
-print("the height is:",h)
-print("area:", area)
-print("perimeter:",perimeter)
-diff=area-perimeter
-print("diffrence:", diff)
+# h=0
+# b=10
+# a=14
+# area=b*h/2
+# perimeter=2*a+b
+# import math
+# h = math.sqrt(a**2-b**2)
+# print("the height is:",h)
+# print("area:", area)
+# print("perimeter:",perimeter)
+# diff=area-perimeter
+# print("diffrence:", diff)
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
