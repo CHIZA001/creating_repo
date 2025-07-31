@@ -15,9 +15,9 @@
 # print("character count:",len(school2))
 # #slicing
 # print(school[8:12])
-# # full_name= first_name + "," + last_name
-# # fullname="samuel, gregory"
-# # print(f' hello! {full_name},{last_name}')
+# full_name= first_name + "," + last_name
+#  fullname="samuel, gregory"
+#  print(f' hello! {full_name},{last_name}')
 # firstname="Samuel"
 # lastname="Gregory"
 # full_name = firstname + " " + lastname
